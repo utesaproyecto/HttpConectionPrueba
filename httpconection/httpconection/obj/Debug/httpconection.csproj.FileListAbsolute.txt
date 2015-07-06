@@ -1,0 +1,9 @@
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\bin\Debug\httpconection.exe.config
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\bin\Debug\httpconection.exe
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\bin\Debug\httpconection.pdb
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.csprojResolveAssemblyReference.cache
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.Form1.resources
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.Properties.Resources.resources
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.csproj.GenerateResource.Cache
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.exe
+C:\Users\OrlandoRodriguez\Desktop\httpconection\httpconection\obj\Debug\httpconection.pdb
